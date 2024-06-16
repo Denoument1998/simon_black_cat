@@ -1,0 +1,1069 @@
+fileFormatVersion: 2
+guid: b2ebf2a0d3c01c649867772f47c28744
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas gato _0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2408
+        width: 362
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be58ace1dedccec4594f3d36f6dd3eae
+      internalID: 281709868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2402
+        width: 371
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d48e972ae9ec4478597d786d9a873d
+      internalID: -689331676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _2
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2402
+        width: 357
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c339dea774b6f8c4498967fa9fec19d2
+      internalID: -1973794714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _3
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 2406
+        width: 351
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27677c8a3eb7f694b8a69317d87f6092
+      internalID: 1955796747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2207
+        width: 363
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d8e8640f9001e4db0e4c8ecd5ea6e5
+      internalID: -859210620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2206
+        width: 361
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2416df5470539449a55a312bda25f0
+      internalID: 1768006549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _6
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 2199
+        width: 340
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c27ae96445d1b4da08ca11ce5f2092
+      internalID: 891781830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _7
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2210
+        width: 369
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6d721edb3c65e4cbdb02acc30e581f
+      internalID: -1825229334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2006
+        width: 368
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65e9401b02edd14b8171154f9921090
+      internalID: 1637004757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2015
+        width: 359
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d425db568366a9b4fad885a17f8eae90
+      internalID: -428296579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _10
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2002
+        width: 343
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af83c858d268344face7411aee2b76a
+      internalID: -509705055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _11
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 2009
+        width: 349
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61152f1a2b98f2a419ce385c30e6e835
+      internalID: 642086858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1810
+        width: 363
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6598fe84781d42a4691977da789af06a
+      internalID: 1834752752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _13
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1809
+        width: 340
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d584d533d0eb5e5469f7db1a0ec0b72c
+      internalID: 1971893866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _14
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1801
+        width: 336
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa5c55f6d578ca4ca539fe1acfad393
+      internalID: -237840277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _15
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1807
+        width: 340
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19c6f0e9db1b804c98531b79536c597
+      internalID: -317265008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1610
+        width: 359
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9121f53b380123a439920dd974fe08ca
+      internalID: 1581302462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _17
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1609
+        width: 335
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fb57d420d60d24d9d649eec2fc571a
+      internalID: -340326557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _18
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1593
+        width: 325
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8eae70fb496ea43887ee610fcbe95c
+      internalID: -559457562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _19
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1611
+        width: 345
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b012d27b7d9b2b7498020f8c42b20eeb
+      internalID: -1387458791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1411
+        width: 351
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ef2a16b4b77bb49a35ec5bbf252bda
+      internalID: -322082044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _21
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1406
+        width: 355
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55bb3c409469f04d8f6a98a9ef0a545
+      internalID: -806568738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _22
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1395
+        width: 266
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24c59d21433df045afa704667bb5930
+      internalID: -1502540513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _23
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 1410
+        width: 354
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d5751fcb1821e4d8040c184aa6bfa6
+      internalID: -1131066984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1214
+        width: 325
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84ddb98b0cb6694baf4e6099d77ec08
+      internalID: 872406270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _25
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1209
+        width: 356
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bf2fd7ad7754147a589fb5da194867
+      internalID: 490128399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _26
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1210
+        width: 363
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3c8010efabb41479624f08e8a5cebd
+      internalID: -650791442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _27
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1009
+        width: 320
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e86945e45758f64cba7eac5d287dfb0
+      internalID: 1866869565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1009
+        width: 376
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6f6681783076044a3a996c2aecee59
+      internalID: 972529779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _29
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1013
+        width: 357
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb48e5ae25911004a8744a9d3b7456dc
+      internalID: -802147960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 813
+        width: 326
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee3b561e23603c449183fae88fd2829
+      internalID: 2049059668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _31
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 812
+        width: 364
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be698360a25ed144bb4f36001357c6e1
+      internalID: -58087613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _32
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 812
+        width: 360
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5425a1b32d6569142b089a233129f67b
+      internalID: -199182766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _33
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 613
+        width: 331
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82fa8f2f9ac0524dba8d477e3512b32
+      internalID: 1357289418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _34
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 613
+        width: 347
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df19aa630f759349a64f9e334e1a39e
+      internalID: 1915117001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _35
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 613
+        width: 362
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3f2ac8dfd63eb408a1c6f332043038
+      internalID: 1316615950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _36
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 414
+        width: 335
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334de7acd54ea6a4982431f78c9b0d83
+      internalID: -183918969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _37
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 418
+        width: 328
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff16895849f0b747bcf959e631e5664
+      internalID: 1141209335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _38
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 414
+        width: 355
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54328e1caadaaca41ad4f28376359772
+      internalID: 491334225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _39
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 213
+        width: 331
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd64627908b694246b4566211564433f
+      internalID: 2070252646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _40
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 213
+        width: 352
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af38a5dd6ad41e488209b354bc75ee4
+      internalID: 2041767513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _41
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 217
+        width: 354
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f651960f2fa814a8e2eef403066266
+      internalID: -1552606290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas gato _42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 12
+        width: 382
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5a0420e443bf64789fb83cc3c7c97a
+      internalID: -1590296664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      atlas gato _0: 281709868
+      atlas gato _1: -689331676
+      atlas gato _10: -509705055
+      atlas gato _11: 642086858
+      atlas gato _12: 1834752752
+      atlas gato _13: 1971893866
+      atlas gato _14: -237840277
+      atlas gato _15: -317265008
+      atlas gato _16: 1581302462
+      atlas gato _17: -340326557
+      atlas gato _18: -559457562
+      atlas gato _19: -1387458791
+      atlas gato _2: -1973794714
+      atlas gato _20: -322082044
+      atlas gato _21: -806568738
+      atlas gato _22: -1502540513
+      atlas gato _23: -1131066984
+      atlas gato _24: 872406270
+      atlas gato _25: 490128399
+      atlas gato _26: -650791442
+      atlas gato _27: 1866869565
+      atlas gato _28: 972529779
+      atlas gato _29: -802147960
+      atlas gato _3: 1955796747
+      atlas gato _30: 2049059668
+      atlas gato _31: -58087613
+      atlas gato _32: -199182766
+      atlas gato _33: 1357289418
+      atlas gato _34: 1915117001
+      atlas gato _35: 1316615950
+      atlas gato _36: -183918969
+      atlas gato _37: 1141209335
+      atlas gato _38: 491334225
+      atlas gato _39: 2070252646
+      atlas gato _4: -859210620
+      atlas gato _40: 2041767513
+      atlas gato _41: -1552606290
+      atlas gato _42: -1590296664
+      atlas gato _5: 1768006549
+      atlas gato _6: 891781830
+      atlas gato _7: -1825229334
+      atlas gato _8: 1637004757
+      atlas gato _9: -428296579
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
